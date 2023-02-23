@@ -10,7 +10,7 @@
     <a href="https://github.com/BlackZon77" target="_blank"><img
         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
         alt="Github"></a>
-    <a href="[https://steamcommunity.com/id/Chaylann](https://steamcommunity.com/id/_bl4ckz0n_/)" target="_blank"><img
+    <a href="https://steamcommunity.com/id/_bl4ckz0n_" target="_blank"><img
         src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
         alt="Steam"></a>
   </p>
