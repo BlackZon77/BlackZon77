@@ -32,6 +32,6 @@
 
 <div align="center"
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackZon77&langs_count=8&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackZon77&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
