@@ -37,13 +37,6 @@ Hi there 👋 I'm Filipe 👨‍💻
   </p>
 </div>
 
-
-<div align="center"
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackzon77&show_icons=true&langs_count=999999999999&theme=react&count_private=true)](https://github.com/blackzon77/github-readme-stats)
-     
-</div>
-
 <div>
   <h2 align="center">IDE's</h2>
   <br>
