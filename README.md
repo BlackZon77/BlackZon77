@@ -14,14 +14,6 @@ Hi there 👋 I'm Filipe 👨‍💻
 </div>
 <br>
 
-<p align='center'>
-  💻 My Setup<br/><br/>
-  <img src="https://img.shields.io/badge/Windows_11_Pro-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
-  <img src="https://img.shields.io/badge/AMD%20Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%201060%20-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
-
 <div>
   <h2 align="center">Programming Languages</h2>
   <br>
@@ -49,12 +41,6 @@ Hi there 👋 I'm Filipe 👨‍💻
     <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" alt="Notepad++">
     <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
   </p>
-</div>
-
-<div align="center"
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackZon77&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 <div>
