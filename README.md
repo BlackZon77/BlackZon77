@@ -5,15 +5,7 @@ Hi there 👋 I'm Filipe 👨‍💻
 <p align='center'>
   A Portuguese student learning software engineering
 </p>
-
 <br>
-<div align="center">
-  <p>
-    <img src="https://cdn.discordapp.com/attachments/606864818246516751/905305646444990474/1home_screen.gif">
-  </p>
-</div>
-<br>
-
 <div>
   <h2 align="center">Programming Languages</h2>
   <br>
@@ -28,7 +20,7 @@ Hi there 👋 I'm Filipe 👨‍💻
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
   </p>
 </div>
-
+<br>
 <div>
   <h2 align="center">IDE's</h2>
   <br>
@@ -42,7 +34,7 @@ Hi there 👋 I'm Filipe 👨‍💻
     <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
   </p>
 </div>
-
+<br>
 <div>
   <h2 align="center">Gaming</h2>
   <br>
